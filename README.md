@@ -107,6 +107,9 @@ E. There is a positive correlation between total profit levels and profit stabil
 
 3. ![image](https://github.com/user-attachments/assets/d38aea52-8624-4a39-ae44-73bf6060cd05)
 
+4. ![image](https://github.com/user-attachments/assets/97334282-5abe-4538-8ebf-72bcf59c24ff)
+
+
 
  
 
