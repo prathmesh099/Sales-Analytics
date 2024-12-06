@@ -73,6 +73,32 @@ Insights
 
   c) Comaparing amounts with previous year lead to insights in profit trends
 
+### Insights
+
+##### Insights from Sales and Profit Analysis:
+
+A. Profit by Category:
+
+1.  Technology contributes the highest profit at $145.45K (50.75%).
+   
+2. Office Supplies follows with $122.75K (42.83%).
+3. Furniture has the lowest profit share at $18.39K (6.42%).
+4. Profit by Segment:
+
+B. The Consumer segment generates the most profit, contributing $134.45K (46.91%).
+1. Corporate accounts for $91.9K (32.07%).
+2 The Home Office segment contributes the least, with $60.25K (21.02%).
+3. Top States by Quantity Sold:
+
+C. California dominates with the highest quantity sold, followed by New York and Texas.
+1. Other notable states include Pennsylvania, Washington, and Illinois.
+2.  Key Influencer for Profit Decrease:
+
+D. When the Sum of Profit decreases by $30.4K, the Total Profit drops by an average of $25.91K.
+
+E. There is a positive correlation between total profit levels and profit stability, suggesting profitability relies heavily on consistent sales performance.
+
+
 ### Snapshots
 
 1. ![image](https://github.com/user-attachments/assets/02e0b40b-ff0e-4e3e-b042-e2a810e0fd87)
